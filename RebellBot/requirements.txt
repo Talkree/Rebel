@@ -1,0 +1,9 @@
+tinkoff-investments
+newsapi-python
+yfinance
+aiogram
+pandas
+pandas_ta
+pandas_market_calendars cachetools
+Tinkoff
+sklearn
